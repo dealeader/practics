@@ -12,3 +12,12 @@
 ## filter_with_filename.py
 ![filter with filename py](filter_with_filename_profile.png)
 Теперь данные введены напрямую в скрипте, общее время выполнения сократилось до 474 миллисекунд, что в 2 раза меньше, чем изначальная реализация
+
+### Тест функции get_image_brightness
+![get image brightness](test1.png)
+
+### Тест функции create_img_bit
+![creat img bit](test2.png)
+
+### Тест функции create_image
+![create image](test3.png)
