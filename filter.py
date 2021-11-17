@@ -26,3 +26,4 @@ Image.fromarray(create_image(img_array,
                              len(img_array[0]),
                              int(input('Введите размер мозаики: ')),
                              int(input('Введите шаг оттенка: ')))).save('res.jpg')
+
